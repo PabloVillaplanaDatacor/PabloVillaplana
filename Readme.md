@@ -1,74 +1,88 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh3aXhpN2NnZHF3NGhiZzJpb3BrNjlkeW05aG9qbWw2ZzIyYjZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" width="200" />
-  <h1>Juan Pablo Villaplana<br>Software Engineer 🚀</h1>
-  <p>
-    Full-stack developer | Web3 enthusiast | Enterprise Integrations | Laravel · Vue · React · Node · .NET · Rust
-  </p>
-</div>
+<h1 align="center">Juan Pablo Villaplana<br>Software Engineer · Enterprise Integrations · Web Systems</h1>
+
+<p align="center">
+  Currently contributing to enterprise-grade systems, integrations, and internal tools.<br>
+  Focused on backend architecture, system integrations, and full-stack development.
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 📌 About Me (Corporate Version)
+
+I am a Software Engineer working on modernizing legacy systems, building enterprise integrations, and contributing to scalable web applications.  
+My areas of focus include:
+
+- Enterprise integrations (Dynamics 365 Business Central, Agvance, custom adapters)
+- Backend architecture with PHP (Laravel, CodeIgniter), C#, and Node.js
+- Frontend development with Vue, React, and modern JavaScript/TypeScript
+- API design, data synchronization pipelines, and microservices
+- Internal tooling, documentation, and system modernization
+
+I aim to deliver clean, maintainable, and scalable technical solutions aligned with business goals.
+
+---
+
+## 🛠️ Core Technologies I Work With
+
 <p align="left">
-  <a href="https://x.com/0xVillaJP" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg" height="30" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35"/>
+</p>
+
+---
+
+## 📂 Internal Projects & Contributions
+
+Due to the nature of my work, most repositories in this organization are private.  
+However, my contributions focus on:
+
+### 🔹 Enterprise Adapters
+- Dynamics 365 Business Central Adapter (Customers, Shipment, MasterItem)
+- Custom Import/Export pipelines for internal ERP systems
+- Integration mapping and transformation services
+
+### 🔹 Backend Modernization
+- Refactoring legacy CodeIgniter modules into HMVC + Service Pattern
+- API stabilization and performance improvements
+- Internal authentication/session services
+
+### 🔹 Internal Tools & Automation
+- Developer utilities and CI/CD enhancements
+- Documentation and architecture templates
+
+---
+
+## 🔗 Public GitHub Profile (Personal Work)
+
+To see my open-source projects, experiments, Web3 tools, side projects, and personal technical portfolio, visit:
+
+👉 **https://github.com/PabloVillaplana**
+
+This includes:
+- Web3 projects (Starknet, Solidity, Cairo)
+- Personal SaaS builds (ticketing, booking systems, API services)
+- Hackathon projects (BuildMyEvent, etc.)
+- Open-source utilities and personal libraries
+
+---
+
+## 📫 Contact
+
+<p align="left">
   <a href="https://www.linkedin.com/in/juan-pablo-villaplana-corrales-4655a05a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
-  <a href="https://instagram.com/0xvillajp" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-  </a>
-  <a href="https://discord.gg/villaplana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" />
-  </a>
 </p>
 
 ---
 
-## 🧩 Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30"/>
-</p>
+### ⚡ Professional Summary  
+I bring experience in building reliable software solutions within complex business ecosystems, focusing on clean code, system stability, and scalable architecture.
 
----
-
-## 📚 Currently Learning
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=B1VZ9ZRl8Vwt&format=png&color=ffffff" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30"/>
-  <img src="https://pbs.twimg.com/profile_images/1782677936585256960/JAwtVCsD_400x400.png" width="30"/>
-  <img src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" width="30"/>
-  <img src="https://img.icons8.com/?size=100&id=63192&format=png&color=000000" width="30"/>
-  <img src="https://img.icons8.com/?size=100&id=kGaP6llzaOqq&format=png&color=ffffff" width="30"/>
-</p>
-
----
-
-## 🏢 Professional GitHub (Work)
-Para proyectos relacionados con mi rol profesional en **Datacor**, puedes visitar mi cuenta corporativa:
-
-👉 **https://github.com/YourWorkGitHubHere**
-
-_(Reemplaza con el URL exacto de tu GitHub del trabajo.)_
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloVillaplana&theme=radical&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloVillaplana&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVillaplana&theme=radical&layout=compact&hide_border=false" />
-</p>
